@@ -1,5 +1,5 @@
 #include <locale.h>
-
+#include <stdio.h>
 main()
 {
 	int i,n,SC=0;
